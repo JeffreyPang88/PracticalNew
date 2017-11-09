@@ -17,7 +17,7 @@ public class GSSample {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hello Goodbye");
+        System.out.println("Hello Goodbyes");
     }
     
 }
